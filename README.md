@@ -1,2 +1,2 @@
 # wanderlust_project
-It is a travel listing platform
+It is a travel listing platform.
